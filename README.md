@@ -12,13 +12,18 @@
 <br/>
 
 ## 🛠️ Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 <br/>
 
@@ -31,14 +36,18 @@
 <br/>
 
 ## 🚀 Projects:
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🎭 [Face Emotion Recognition](https://github.com/ArikHasan/face-emotion-recognition-research) | Real-time facial emotion detection | FER, TensorFlow, OpenCV |
-| 💬 Bangla Sentiment Analysis | NLP sentiment classification | BiLSTM, Python |
+## 🚀 Projects:
+
+| Project                                                                                       | Description                                                             | Tech                                              |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------- |
+| 🎭 [Face Emotion Recognition](https://github.com/ArikHasan/face-emotion-recognition-research) | Real-time facial emotion detection                                      | FER, TensorFlow, OpenCV                           |
+| 🌦️ [Bangladesh Weather Analysis](https://github.com/ArikHasan/Bangladesh-Weather-Analysis)   | Weather data analysis, visualization, and simple temperature prediction | Python, Pandas, Matplotlib, Seaborn, Scikit-learn |
+| 💬 Bangla Sentiment Analysis                                                                  | NLP sentiment classification                                            | BiLSTM, Python                                    |
 
 <br/>
 
 ## 📊 GitHub Stats:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArikHasan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArikHasan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
@@ -47,5 +56,9 @@
 <br/>
 
 ## 📫 Contact:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arikhasan764764@gmail.com)
+
+[![Gmail 1](https://img.shields.io/badge/Gmail-arikhasan764764%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:arikhasan764764@gmail.com)
+
+[![Gmail 2](https://img.shields.io/badge/Gmail-arikhasan4651%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:arikhasan4651@gmail.com)
+
 
