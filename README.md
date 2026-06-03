@@ -44,6 +44,7 @@
 | 🌦️ [Bangladesh Weather Analysis](https://github.com/ArikHasan/Bangladesh-Weather-Analysis)   | Weather data analysis, visualization, and simple temperature prediction | Python, Pandas, Matplotlib, Seaborn, Scikit-learn |
 | 💬 Bangla Sentiment Analysis                                                                  | NLP sentiment classification                                            | BiLSTM, Python                                    |
 | 🚨 [Bangladesh Disaster Alert System](https://github.com/ArikHasan/Bangladesh-Disaster-Alert-System) | Real-time disaster monitoring and alert system for Bangladesh | Python, Pandas, Folium |
+| 🛡️ [SafeHer Bangladesh](https://github.com/ArikHasan/SafeHer-Bangladesh) | Women safety platform with AI chatbot Tanzu & ARIK | HTML, CSS, JS, Python |
 <br/>
 
 ## 📊 GitHub Stats:
