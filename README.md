@@ -35,14 +35,20 @@
 
 <br/>
 
-## 🚀 Projects:
+## 📄 Published Research:
+
+🗂️ [BiLSTM-Based Smishing Detection for Bangla SMS](https://www.researchgate.net/publication/399409037_BiLSTM-Based_Smishing_Detection_for_Bangla_SMS)
+🏛️ IDAA 2025 — Daffodil International University, Dhaka
+📅 December 12-13, 2025 | Paper ID: 10480
+🏆 Published by Taylor & Francis / Atlantis Press
+
+
 ## 🚀 Projects:
 
 | Project                                                                                       | Description                                                             | Tech                                              |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------- |
 | 🎭 [Face Emotion Recognition](https://github.com/ArikHasan/face-emotion-recognition-research) | Real-time facial emotion detection                                      | FER, TensorFlow, OpenCV                           |
 | 🌦️ [Bangladesh Weather Analysis](https://github.com/ArikHasan/Bangladesh-Weather-Analysis)   | Weather data analysis, visualization, and simple temperature prediction | Python, Pandas, Matplotlib, Seaborn, Scikit-learn |
-[BiLSTM-Based Smishing Detection for Bangla SMS](https://www.researchgate.net/publication/399409037_BiLSTM-Based_Smishing_Detection_for_Bangla_SMS)
 | 🚨 [Bangladesh Disaster Alert System](https://github.com/ArikHasan/Bangladesh-Disaster-Alert-System) | Real-time disaster monitoring and alert system for Bangladesh | Python, Pandas, Folium |
 | 🛡️ [SafeHer Bangladesh](https://github.com/ArikHasan/SafeHer-Bangladesh) | Women safety platform with AI chatbot Tanzu & ARIK | HTML, CSS, JS, Python |
 <br/>
