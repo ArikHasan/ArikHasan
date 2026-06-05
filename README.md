@@ -51,6 +51,7 @@
 | 🌦️ [Bangladesh Weather Analysis](https://github.com/ArikHasan/Bangladesh-Weather-Analysis)   | Weather data analysis, visualization, and simple temperature prediction | Python, Pandas, Matplotlib, Seaborn, Scikit-learn |
 | 🚨 [Bangladesh Disaster Alert System](https://github.com/ArikHasan/Bangladesh-Disaster-Alert-System) | Real-time disaster monitoring and alert system for Bangladesh | Python, Pandas, Folium |
 | 🛡️ [SafeHer Bangladesh](https://github.com/ArikHasan/SafeHer-Bangladesh) | Women safety platform with AI chatbot Tanzu & ARIK | HTML, CSS, JS, Python |
+| 🖐️ [Hand Gesture Mouse Control](https://github.com/ArikHasan/Hand-gesture-mouse-control) | Real-time hand gesture controlled mouse using webcam | Python, MediaPipe, OpenCV |
 <br/>
 
 ## 📊 GitHub Stats:
