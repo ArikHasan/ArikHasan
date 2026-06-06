@@ -25,15 +25,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<br/>
 
-## 📄 Published Research:
-> 📜 **BiLSTM-Based Smishing Detection for Bangla SMS**  
-> 🏛️ IDAA 2025 — Daffodil International University, Dhaka  
-> 📅 December 12-13, 2025 | Paper ID: 10480  
-> 🏆 Published by Taylor & Francis / Atlantis Press
-
-<br/>
 
 ## 📄 Published Research:
 
