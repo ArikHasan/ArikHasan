@@ -64,13 +64,13 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArikHasan&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ArikHasan&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArikHasan&theme=radical" width="95%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArikHasan&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArikHasan&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArikHasan&theme=radical&utcOffset=6" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArikHasan&theme=radical" width="32%" />
 </p>
-
 ---
 
 ## 💬 Quote I Live By:
