@@ -1,18 +1,24 @@
-<h1 align="center">Hi 👋, I'm Mahmudul Hasan</h1>
-<h3 align="center">CSE Student | AI & ML Researcher | Bangladesh 🇧🇩</h3>
+<div align="center">
 
-<br/>
+# Hi 👋, I'm Mahmudul Hasan
+### CSE Student | AI & ML Researcher | Bangladesh 🇧🇩
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Published+Researcher+%40+IDAA+2025;Building+real+solutions+for+real+problems;Aspiring+to+research+abroad+🌍)
+
+</div>
+
+---
 
 ## 🙋 About Me:
 
 - 🎓 Final-year **Computer Science & Engineering** student at Daffodil International University
-- 🔬 Published researcher — **IDAA 2025 International Conference** (Taylor & Francis / Atlantis Press)
-- 🌍 Actively building skills and projects to pursue **graduate studies in Europe**
-- 🛠️ I build real-world AI tools that address problems people in Bangladesh actually face
+- 🔬 Published researcher — **IDAA 2025** (Taylor & Francis / Atlantis Press)
+- 🌍 Building a strong portfolio to pursue **graduate studies in Europe**
+- 🛠️ I build AI tools that solve real problems people in Bangladesh face
 - 💡 Currently exploring **Machine Learning, NLP, and Computer Vision**
 - 📈 Always learning. Always shipping.
 
-<br/>
+---
 
 ## 🛠️ Tech Stack:
 
@@ -32,7 +38,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<br/>
+---
 
 ## 📄 Published Research:
 
@@ -41,7 +47,7 @@
 > 📅 December 12–13, 2025 | Paper ID: 10480
 > 🏆 Published by Taylor & Francis / Atlantis Press
 
-<br/>
+---
 
 ## 🚀 Projects:
 
@@ -53,29 +59,41 @@
 | 🛡️ [SafeHer Bangladesh](https://github.com/ArikHasan/SafeHer-Bangladesh) | Women's safety platform with AI chatbot Tanzu & ARIK | HTML, CSS, JS, Python |
 | 🖐️ [Hand Gesture Mouse Control](https://github.com/ArikHasan/Hand-gesture-mouse-control) | Real-time hand gesture controlled mouse using webcam | Python, MediaPipe, OpenCV |
 
-<br/>
+---
 
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArikHasan&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ArikHasan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ArikHasan&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArikHasan&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArikHasan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArikHasan&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
 </p>
 
-<br/>
+---
 
-## 💬 Dev Quote:
+## 💬 Quote I Live By:
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<br/>
+---
 
 ## 📫 Contact:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmudul%20Hasan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arikhasan)
-[![Gmail](https://img.shields.io/badge/Gmail-arikhasan764764%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arikhasan764764@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahmudul-hasan-31b189278">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahmudul%20Hasan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:arikhasan764764@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-arikhasan764764%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ArikHasan&icon=5&color=6" />
+</div>
