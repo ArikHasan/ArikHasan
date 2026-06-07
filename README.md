@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hi 👋, I'm Mahmudul Hasan
-### CSE Student | AI & ML Researcher | Bangladesh 🇧🇩
+### CSE Student | AI & ML Enthusiast | Bangladesh 🇧🇩
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Published+Researcher+%40+IDAA+2025;Building+real+solutions+for+real+problems;Aspiring+to+research+abroad+🌍)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2D6A4F&center=true&vCenter=true&width=700&lines=Hi+I'm+Mahmudul+Hasan+👋;Final+Year+CSE+Student+%40+DIU;AI+%26+ML+Enthusiast+🤖;Published+at+IDAA+2025+📄;Python+%7C+TensorFlow+%7C+Keras+%7C+NumPy+%7C+Pandas;Dreaming+to+research+abroad+🌍)
 
 </div>
 
@@ -43,11 +43,14 @@
 ## 📄 Published Research:
 
 > 🗂️ **[BiLSTM-Based Smishing Detection for Bangla SMS](https://www.researchgate.net/publication/399409037_BiLSTM-Based_Smishing_Detection_for_Bangla_SMS)**
+
 > 🏛️ IDAA 2025 — Daffodil International University, Dhaka
 > 📅 December 12–13, 2025 | Paper ID: 10480
 > 🏆 Published by Taylor & Francis / Atlantis Press
 
 ---
+
+
 
 ## 🚀 Projects:
 
@@ -60,6 +63,8 @@
 | 🖐️ [Hand Gesture Mouse Control](https://github.com/ArikHasan/Hand-gesture-mouse-control) | Real-time hand gesture controlled mouse using webcam | Python, MediaPipe, OpenCV |
 
 ---
+
+
 
 ## 📊 GitHub Stats:
 
