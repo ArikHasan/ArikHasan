@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -52,12 +53,11 @@
 
 ---
 
-
-
 ## 🚀 Projects:
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| 🤟 [Bangla Sign Language Recognition](https://github.com/ArikHasan/bangla-sign-language) | Real-time Bangla Sign Language (BdSL) detection using hand landmarks and ML | Python, MediaPipe, OpenCV, Scikit-learn |
 | 🎭 [Face Emotion Recognition](https://github.com/ArikHasan/face-emotion-recognition-research) | Real-time facial emotion detection | FER, TensorFlow, OpenCV |
 | 🌦️ [Bangladesh Weather Analysis](https://github.com/ArikHasan/Bangladesh-Weather-Analysis) | Weather data analysis, visualization, and temperature prediction | Python, Pandas, Matplotlib, Seaborn, Scikit-learn |
 | 🚨 [Bangladesh Disaster Alert System](https://github.com/ArikHasan/Bangladesh-Disaster-Alert-System) | Real-time disaster monitoring and alert system for Bangladesh | Python, Pandas, Folium |
@@ -65,8 +65,6 @@
 | 🖐️ [Hand Gesture Mouse Control](https://github.com/ArikHasan/Hand-gesture-mouse-control) | Real-time hand gesture controlled mouse using webcam | Python, MediaPipe, OpenCV |
 
 ---
-
-
 
 ## 📊 GitHub Stats:
 
@@ -78,6 +76,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArikHasan&theme=radical&utcOffset=6" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArikHasan&theme=radical" width="32%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArikHasan&theme=radical" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArikHasan&theme=radical&no-frame=true&row=1&column=7" width="48%" />
+</p>
+
 ---
 
 ## 💬 Quote I Live By:
@@ -94,8 +98,8 @@
   <a href="https://www.linkedin.com/in/mahmudul-hasan-31b189278">
     <img src="https://img.shields.io/badge/LinkedIn-Mahmudul%20Hasan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:arikhasan764764@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-arikhasan764764%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:arikhasan4651@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-arikhasan4651%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
